@@ -11,5 +11,5 @@ Follow us on Twitter [@dotnetcurry](http://www.twitter.com/dotnetcurry)
 
 We are also on Facebook at [www.facebook.com/dotnetcurry](http://www.facebook.com/dotnetcurry)
 
-<updated></updated>
+
 
